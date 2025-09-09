@@ -20,7 +20,7 @@ export default function Home() {
       <div id="hero" data-section="hero" className="scroll-mt-24">
         <SplitHero
           title="Welcome to DogCoin"
-          subtitle="Join the pack and earn rewards" 
+          subtitle="Join the pack and earn rewards"
           primaryButtonText="Get Started"
           secondaryButtonText="Learn More"
         />
