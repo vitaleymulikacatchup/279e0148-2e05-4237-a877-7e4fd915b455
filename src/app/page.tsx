@@ -75,7 +75,7 @@ export default function Home() {
           logoSrc="/images/logo.svg"
           logoAlt="DogCoin"
           logoText="Join the DogCoin Community"
-          className="footer">
+          className="footer"
         />
       </div>
     </SiteThemeProvider>
